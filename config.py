@@ -1,4 +1,3 @@
-"""Configuration constants for the churn prediction project."""
 import os
 
 # project root
