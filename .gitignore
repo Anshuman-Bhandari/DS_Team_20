@@ -1,0 +1,43 @@
+# ── Python ──────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Data & Models (generated, not tracked) ──────
+data/processed/
+data/raw/
+models/*.pkl
+customer_risk_table.csv
+
+# ── Jupyter ─────────────────────────────────────
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# ── IDE ─────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Environment ─────────────────────────────────
+.env
+venv/
+.venv/
+env/
+
+# ── Archives ────────────────────────────────────
+*.zip
+
+# ── Gemini ──────────────────────────────────────
+.gemini/
