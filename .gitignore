@@ -14,7 +14,6 @@ data/raw/*.csv
 data/processed/*.xlsx
 data/processed/*.csv
 models/*.pkl
-customer_risk_table.csv
 
 # ── Jupyter ─────────────────────────────────────
 .ipynb_checkpoints/
