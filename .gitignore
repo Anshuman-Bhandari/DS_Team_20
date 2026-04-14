@@ -9,8 +9,10 @@ build/
 .eggs/
 
 # ── Data & Models (generated, not tracked) ──────
-data/processed/
-data/raw/
+data/raw/*.xlsx
+data/raw/*.csv
+data/processed/*.xlsx
+data/processed/*.csv
 models/*.pkl
 customer_risk_table.csv
 
